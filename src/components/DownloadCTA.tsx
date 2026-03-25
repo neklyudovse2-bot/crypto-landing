@@ -26,7 +26,9 @@ export default function DownloadCTA() {
 
           <div className="flex flex-col sm:flex-row gap-3 justify-center">
             <a
-              href="#"
+              href="https://apps.apple.com/kz/app/asset-journal-tracker/id6759189847"
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-3 px-8 py-4 bg-[#12121A] border border-[#1A1A2E] text-white font-medium text-sm rounded-lg hover:border-[#8892A0]/30 transition-all hover:shadow-lg group"
             >
               <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" className="text-white">

@@ -130,7 +130,9 @@ export default function Hero() {
               className="flex flex-col sm:flex-row gap-3 justify-center lg:justify-start"
             >
               <a
-                href="#download"
+                href="https://apps.apple.com/kz/app/asset-journal-tracker/id6759189847"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 px-6 py-3.5 bg-[#00E5FF] text-[#0A0A0F] font-semibold text-sm rounded-lg hover:bg-[#00E5FF]/90 transition-all hover:shadow-lg hover:shadow-[#00E5FF]/20"
               >
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
