@@ -9,7 +9,7 @@ export default function PrivacyPolicy() {
         <section className="space-y-8 text-[#8892A0] leading-relaxed">
           <div>
             <h2 className="text-xl font-semibold text-white mb-3">1. Introduction</h2>
-            <p>This Privacy Policy describes how <strong className="text-white">Clario Track: Finance Tracking</strong> ("the App", "we", "us") handles your information. We are committed to protecting your privacy and being transparent about our data practices.</p>
+            <p>This Privacy Policy describes how <strong className="text-white">Clario Track: Finance Tracking</strong> (&quot;the App&quot;, &quot;we&quot;, &quot;us&quot;) handles your information. We are committed to protecting your privacy and being transparent about our data practices.</p>
           </div>
 
           <div>
@@ -58,11 +58,11 @@ export default function PrivacyPolicy() {
 
           <div>
             <h2 className="text-xl font-semibold text-white mb-3">6. Data Retention and Deletion</h2>
-            <p>Since all data is stored locally on your device, you can delete all App data at any time by clearing the App's data in your device Settings or by uninstalling the App. We do not retain any personal data on our servers.</p>
+            <p>Since all data is stored locally on your device, you can delete all App data at any time by clearing the App&apos;s data in your device Settings or by uninstalling the App. We do not retain any personal data on our servers.</p>
           </div>
 
           <div>
-            <h2 className="text-xl font-semibold text-white mb-3">7. Children's Privacy</h2>
+            <h2 className="text-xl font-semibold text-white mb-3">7. Children&apos;s Privacy</h2>
             <p>The App is not directed at children under the age of 13. We do not knowingly collect personal information from children. If you believe a child has provided us with personal information, please contact us.</p>
           </div>
 
